@@ -1,1 +1,5 @@
-@import "~bootstrap/dist/css/bootstrap.min.css";
+.container {
+  justify-content: center;
+  display: flex;
+  margin: auto;
+}
